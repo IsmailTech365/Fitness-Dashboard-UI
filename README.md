@@ -1,5 +1,7 @@
 # fitness_dashboard_ui
 
+![](https://raw.githubusercontent.com/IsmailTech365/Fitness-Dashboard-UI/main/Screenshot%202024-03-07%20061232.png)
+
 - I hope you will read me and learn with me a new way to download any project and run it in any version without any suffering
 
 - A project programmed using the Flutter framework
