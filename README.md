@@ -1,4 +1,4 @@
-# fitness_dashboard_ui
+# Fitness Dashboard UI
 
 ![](https://raw.githubusercontent.com/IsmailTech365/Fitness-Dashboard-UI/main/Screenshot%202024-03-07%20061232.png)
 
